@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUDEEP K U</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+![1021973220434827c327b5c700eb32a6](https://user-images.githubusercontent.com/83537775/149161578-b8e1f6d4-c3f2-4f94-9747-67f546c0531c.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep467&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep467" /> </p>
 
