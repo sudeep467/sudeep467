@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning ,Deep Learning**
 
-- 💬 Ask me about **Machine Learning , Power BI**
+- 💬 Ask me about **Machine Learning , Power BI,Tableau**
 
 - 📫 How to reach me **sudeepku32@gmail.com**
 
